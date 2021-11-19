@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_58872_needit_my_custom_table</description>
+        <name>x_58872_needit_my_custom_table</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 19:10:11</sys_created_on>
+        <sys_id>2cee6e2b1bb730105494c991604bcbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_my_custom_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_2cee6e2b1bb730105494c991604bcbf2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:10:11</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>57754c46db807090431011f84896195a</instance_id>
+        <instance_name>dev115498</instance_name>
+        <name>sys_security_acl_2cee6e2b1bb730105494c991604bcbf2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_58872_needit_my_custom_table</description><name>x_58872_needit_my_custom_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-19 19:10:11</sys_created_on><sys_id>2cee6e2b1bb730105494c991604bcbf2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_my_custom_table</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_security_acl_2cee6e2b1bb730105494c991604bcbf2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-19 19:10:11</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1718252381</payload_hash>
+        <record_name>x_58872_needit_my_custom_table</record_name>
+        <reverted_from/>
+        <source>72ae2d2b1bf330105494c991604bcb16</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 19:10:11</sys_created_on>
+        <sys_id>24ee6e2b1bb730105494c991604bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d399b2ebd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:10:11</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>6cee6e2b3cb73010d8062961bb168ff4</update_guid>
+        <update_guid_history>6cee6e2b3cb73010d8062961bb168ff4:-1718252381</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 19:14:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>309579eb0a1c4e82a8d45a4b3f306664</sys_id>
+        <sys_metadata>2cee6e2b1bb730105494c991604bcbf2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_my_custom_table</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">a8ee6e2b1bb730105494c991604bcbf8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_2cee6e2b1bb730105494c991604bcbf2</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_2cee6e2b1bb730105494c991604bcbf2">24ee6e2b1bb730105494c991604bcbf5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:14:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
